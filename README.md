@@ -41,7 +41,7 @@ All media files (images, audio, videos) and the MongoDB datasets are hosted on G
 1️⃣ Clone the repository
 Copy code
 Bash
-git clone https://github.com/USERNAME/Librify.git
+git clone [https://github.com/Saraahmed-65/Librify-Digital-library/edit/main/README.md](url)
 cd Librify
 2️⃣ Install dependencies
 Copy code
