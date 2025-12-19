@@ -1,0 +1,11 @@
+story_id,title,author,age_range,image_url,description,audio_url,duration
+1,The Brave Little Lion,Lina Mostafa,8-Apr,https://example.com/story1.jpg,A young lion learns courage through friendship.,https://example.com/audio/story1.mp3,5:10
+2,Sara and the Magic Tree,Omar Khaled,8-Apr,https://example.com/story2.jpg,Sara discovers a magical tree that grants wishes.,https://example.com/audio/story2.mp3,6:11
+3,The Lost Star,Sara Hany,8-Apr,https://example.com/story3.jpg,A boy searches the sky to help a lost star find its home.,https://example.com/audio/story3.mp3,7:12
+4,The Talking Rabbit,Mona Samir,8-Apr,https://example.com/story4.jpg,A rabbit that can talk teaches kindness.,https://example.com/audio/story4.mp3,8:13
+5,The Rainbow Adventure,Youssef Adel,8-Apr,https://example.com/story5.jpg,A colorful trip across a magical rainbow world.,https://example.com/audio/story5.mp3,9:14
+6,Omar and the Flying Carpet,Dina Fathy,8-Apr,https://example.com/story6.jpg,Omar finds a carpet that can fly him anywhere.,https://example.com/audio/story6.mp3,10:15
+7,The Secret Garden Door,Ziad Gamal,8-Apr,https://example.com/story7.jpg,A girl discovers a secret door to a magical garden.,https://example.com/audio/story7.mp3,11:16
+8,The Tiny Giant,Hala Tarek,8-Apr,https://example.com/story8.jpg,A giant as small as a mouse goes on a big adventure.,https://example.com/audio/story8.mp3,12:17
+9,Mira and the Moonlight Path,Nour Hassan,8-Apr,https://example.com/story9.jpg,Mira follows a glowing path under the moonlight.,https://example.com/audio/story9.mp3,13:18
+10,The Friendly Dragon,Rania Youssef,8-Apr,https://example.com/story10.jpg,A dragon who wants to become friends with children.,https://example.com/audio/story10.mp3,14:19
