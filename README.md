@@ -29,7 +29,7 @@ Librify/
 │   ├── style.css
 │   └── script.js
 ├── back/
-│   └── App.py          # Flask backend
+│   └── App.py          # Flask & backend
 ├── README.md
 └── Media_and_DB/
     └── (Hosted on Google Drive)
