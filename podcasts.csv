@@ -1,0 +1,16 @@
+podcast_id,title,host,category,image,description,episode_id,episode_title,duration,audio_url
+1,Tech Behind The Scenes,Sara Ahmed,Technology,https://example.com/podcast1.jpg,A deep exploration into modern topics.,100,Episode 1 of Tech Behind The Scenes,15:11,https://example.com/audio/podcast1_ep1.mp3
+2,Mindful Moments,Omar Khaled,Self-Improvement,https://example.com/podcast2.jpg,Short episodes to boost your day.,102,Episode 1 of Mindful Moments,15:11,https://example.com/audio/podcast2_ep1.mp3
+3,History Uncovered,Lina Mostafa,History,https://example.com/podcast3.jpg,Uncovering the untold stories of history.,104,Episode 1 of History Uncovered,15:11,https://example.com/audio/podcast3_ep1.mp3
+4,Business Insights,Youssef Adel,Business,https://example.com/podcast4.jpg,Weekly tips to grow your business.,107,Episode 2 of Business Insights,20:12,https://example.com/audio/podcast4_ep2.mp3
+5,Science Simplified,Dina Fathy,Science,https://example.com/podcast5.jpg,Breaking down science into simple ideas.,108,Episode 1 of Science Simplified,15:11,https://example.com/audio/podcast5_ep1.mp3
+6,Creative Minds,Marwan Nabil,Creativity,https://example.com/podcast6.jpg,Interviews with creative thinkers.,110,Episode 1 of Creative Minds,15:11,https://example.com/audio/podcast6_ep1.mp3
+7,Fitness Journey,Nour Hassan,Fitness,https://example.com/podcast7.jpg,Your guide to healthier living.,112,Episode 1 of Fitness Journey,15:11,https://example.com/audio/podcast7_ep1.mp3
+8,Global Talks,Ali Reda,Politics,https://example.com/podcast8.jpg,Discussing global issues with experts.,114,Episode 1 of Global Talks,15:11,https://example.com/audio/podcast8_ep1.mp3
+9,Mystery Files,Mona Samir,Mystery,https://example.com/podcast9.jpg,Solving mysterious events around the world.,116,Episode 1 of Mystery Files,15:11,https://example.com/audio/podcast9_ep1.mp3
+10,Daily Motivation,Karim Hany,Motivation,https://example.com/podcast10.jpg,Daily quotes and motivation.,118,Episode 1 of Daily Motivation,15:11,https://example.com/audio/podcast10_ep1.mp3
+11,Health Hub,Hager Mahmoud,Health,https://example.com/podcast11.jpg,Tips for better physical and mental health.,120,Episode 1 of Health Hub,15:11,https://example.com/audio/podcast11_ep1.mp3
+12,Art Vibes,Ziad Gamal,Art,https://example.com/podcast12.jpg,Exploring art movements and stories.,122,Episode 1 of Art Vibes,15:11,https://example.com/audio/podcast12_ep1.mp3
+13,Future World,Hala Tarek,Future,https://example.com/podcast13.jpg,Looking at the future of humanity.,124,Episode 1 of Future World,15:11,https://example.com/audio/podcast13_ep1.mp3
+14,Real Stories,Mostafa Mahmoud,Lifestyle,https://example.com/podcast14.jpg,Real people. Real stories.,126,Episode 1 of Real Stories,15:11,https://example.com/audio/podcast14_ep1.mp3
+15,Book Review Central,Rania Youssef,Books,https://example.com/podcast15.jpg,Reviews of popular and classic books.,128,Episode 1 of Book Review Central,15:11,https://example.com/audio/podcast15_ep1.mp3
